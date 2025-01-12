@@ -5,14 +5,17 @@ Wang Y, Guo Q, Xiang J, et al.[Doubly Selective Channel Estimation for FBMC and 
 However you obtain and use our packages, please cite our article:
 
 @ARTICLE{10824843,
+
   author={Wang, Ying and Guo, Qiang and Xiang, Jianhong and Zhong, Yu},
+
   journal={IEEE Wireless Communications Letters}, 
+  
   title={Doubly Selective Channel Estimation for FBMC and OFDM Systems Based on MIR Correlation}, 
+  
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
+  
   keywords={Channel estimation;Symbols;Interference;OFDM;Extrapolation;Modulation;Wireless communication;Prototypes;Estimation;Accuracy;OFDM;FBMC;Channel estimation;Measured Impulse Response (MIR);Orthogonal projection theorem},
+  
   doi={10.1109/LWC.2025.3525592}}
 
 Important files needed for the code to run:
