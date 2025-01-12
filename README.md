@@ -20,4 +20,4 @@ However you obtain and use our packages, please cite our article:
 
 Important files needed for the code to run:
 
-Measurement of RH_560 can be downloaded at https://drive.google.com/file/d/1SK8ZFv6SzHvig7u0Mt7uH6MTeV8OJk8D/view?usp=drive_link.
+R_H_560 can be downloaded at https://drive.google.com/file/d/1SK8ZFv6SzHvig7u0Mt7uH6MTeV8OJk8D/view?usp=drive_link.
